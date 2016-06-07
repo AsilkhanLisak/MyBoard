@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SlideBar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="page_tables_hello">page : Tables fragment!!!</string>
+    <string name="page_plot_hello">page: Plot fragment!!!</string>
+    <string name="hello_test_calling_activity">Hello called activity</string>
+    <string name="hello_plot_fragment">Hello plot fragment!!!</string>
+    <string name="hello_tables_fragment">Hello tables fragment</string>
+    <string name="title_activity_login"></string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_login">Логин</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">ВХОД</string>
+    <string name="action_sign_in_short">Окно входа</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">Пароль неверен</string>
+    <string name="error_field_required_login">Пожалуйста, введите логин!</string>
+    <string name="error_field_required_password">Пожалуйста, введите пароль!</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
