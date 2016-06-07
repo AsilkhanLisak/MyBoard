@@ -29,4 +29,5 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="forGitHub">Check it phrase on GitHub)</string>
 </resources>
